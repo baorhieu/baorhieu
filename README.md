@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm not Chinese :)
 
 #### GITHUB
-[![](https://img.shields.io/github/followers/baohieu078?label=Follow%20me&style=social)](https://github.com/baohieu078)
+[![](https://img.shields.io/github/followers/baohieu078?label=Follow%20me&style=social)](https://github.com/baorhieu)
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
